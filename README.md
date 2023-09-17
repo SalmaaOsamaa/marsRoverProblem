@@ -3,7 +3,7 @@
   <div >
   <p>Mars Rover Problem</p>
 
-### marsRoverProblem
+### Steps to follow to run this project
    
   1. Clone the repo 
 ```sh

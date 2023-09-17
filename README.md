@@ -3,11 +3,11 @@
   <div >
   <p>Mars Rover Problem</p>
  ### steps to follow 
-    1. Clone the repo 
+   
+  1. Clone the repo 
 ```sh
 git clone https://github.com/SalmaaOsamaa/marsRoverProblem.git
 ```
-
 2. install dependenscies
  ```bash
    npm install

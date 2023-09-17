@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <div >
   <p>Mars Rover Problem</p>
- ### steps to follow 
+ ## steps to follow 
    
   1. Clone the repo 
 ```sh
